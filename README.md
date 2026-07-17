@@ -3,6 +3,8 @@
 ## About
 Some scripts for backing up/duplicating a SQL Server database, including tools to export to SQLite.
 
+> These versions of scripts not yet tested. _{Later)_
+
 ## Reference
 
 [SQL Server Database Export/Import Guide blog post](https://davidjones.sportronics.com.au/db/SQL_Server-Database_Export-Import_Guide-db.html)
