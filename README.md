@@ -3,6 +3,10 @@
 ## About
 Some scripts for backing up/duplicating a SQL Server database, including tools to export to SQLite.
 
+## Reference
+
+[SQL Server Database Export/Import Guide blog post](https://davidjones.sportronics.com.au/db/SQL_Server-Database_Export-Import_Guide-db.html)
+
 ## Directory
 - `SQLScripts/`
   - `settings.sample.ps1` — Sample environment-backed settings. Copy to `settings.ps1` and edit for local use.
