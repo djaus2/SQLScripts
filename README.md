@@ -3,7 +3,7 @@
 ## About
 Some scripts for backing up/duplicating a SQL Server database, including tools to export to SQLite.
 
-> These versions of scripts not yet tested. _{Later)_
+> These versions of scripts are parameterised versions of original scripts that were used. Settings communicated here through env settings. These versions not yet tested. _{Later)_
 
 ## Reference
 
