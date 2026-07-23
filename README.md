@@ -24,4 +24,4 @@ Some scripts for backing up/duplicating a SQL Server database, including tools t
    - `pwsh .\SQLScripts\ExportToSqliteSimple.ps1`
 
 ## Security
-Do not commit `settings.ps1` with real credentials. Use `settings.sample.ps1` in the repo and add `SQLScripts/settings.ps1` to `.gitignore`.
+Do not commit `settings.ps1 or settings.sample.ps1` with real credentials. Edit `settings.sample.ps1` in the repo and add `SQLScripts/settings.ps1` to `.gitignore`.
